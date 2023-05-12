@@ -49,6 +49,8 @@ types-tabulate==0.8.11
 # Dependency of sw/host/vendor/google_verible_verilog_syntax_py
 anytree==2.8.0
 
+urllib3==1.26.21
+
 # Development version with OT-specific changes
 git+https://github.com/lowRISC/fusesoc.git@ot-0.3
 
